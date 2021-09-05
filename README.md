@@ -9,10 +9,10 @@ Estudando HTML, CSS e JavaScript... 💻
  <h2 align="center">Linguagens:</h2>
  
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="ana-Js" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ana-HTML" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ana-CSS" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ana-Python" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ana-Js" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ana-HTML" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ana-CSS" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ana-Python" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
 </div>
 <img align="right" alt="ana-sm" width="128" height="128" src="https://64.media.tumblr.com/b4a6e5314af5f33e889f70b384bac17f/07c5ba57d8e1bf51-0f/s400x600/62e7c2f774a9c106091414aae6c372f09a2f1e2e.gifv"/>
