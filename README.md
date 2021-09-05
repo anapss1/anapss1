@@ -7,7 +7,7 @@ Estudando HTML, CSS e JavaScript... 💻
 </div>
  
  
-<p>🎈 Linguagens:</p>
+<p>🎈 Linguagens:
 
   
 <div style="display: inline_block" align="center">
@@ -20,12 +20,14 @@ Estudando HTML, CSS e JavaScript... 💻
 </div>
  
  
-<p>📞 Social:</p>
+📞 Social:
 
-<p><div>
+<div>
 <a href="https://www.linkedin.com/in/anapss1/" target="_blank"><img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a>
-</div></p>
+</div>
+
+</p>
  
   ![Snake animation](https://github.com/anapss1/anapss1/blob/output/github-contribution-grid-snake.svg)
  
