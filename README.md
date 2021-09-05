@@ -1,5 +1,4 @@
-### Hi, my name is Ana 👋
-
+### Oi, eu sou a Ana 👋
 <div>
   <a href="https://github.com/anapss1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anapss1&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
