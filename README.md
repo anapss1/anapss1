@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Ana 
+## Oi! Eu sou a Ana ✨
  <div>
   <a href="https://github.com/anapss1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anapss1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
