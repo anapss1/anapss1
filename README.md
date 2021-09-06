@@ -7,11 +7,12 @@ Estudando HTML, CSS e JavaScript... 💻
  </p></div>
  
 
+
 ##
   
-<div align="left">
+<div align="center">
 
- <p>🎈 Linguagens</p>
+> **Linguagens** :cloud:
 <p>
   <img  alt="ana-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img  alt="ana-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -23,16 +24,17 @@ Estudando HTML, CSS e JavaScript... 💻
 <img align="right" alt="ana-cat" height="128" src="https://64.media.tumblr.com/253c3102834500c5bafe9af0694bb54d/c51131a45cbee784-5f/s540x810/71f488625bb383343c83b79ee01bbf8774df77b3.gif"/>
 
 
- <div align="left">
 
- <p>📞 Social</p>
+ 
+##
+
+  <div align="right">
+
 
 <a href="https://www.linkedin.com/in/anapss1/" target="_blank"><img height="30"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
 </div>
- 
-##
 
 <div align="center">
 
