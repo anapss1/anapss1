@@ -7,9 +7,9 @@ Estudando HTML, CSS e JavaScript... 💻
  </p></div>
  
 
-
+##
   
-<div align="left">
+<div align="center">
 
  <p>🎈 Linguagens:</p>
 <p>
@@ -21,8 +21,8 @@ Estudando HTML, CSS e JavaScript... 💻
 </div>
 
 
- <div align="left">
-  
+ <div align="center">
+
  <p>📞 Social:</p>
 
 <a href="https://www.linkedin.com/in/anapss1/" target="_blank"><img height="30"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -30,7 +30,7 @@ Estudando HTML, CSS e JavaScript... 💻
 
 </div>
  
-
+##
 
 <div align="center">
 
