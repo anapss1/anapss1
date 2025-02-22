@@ -1,5 +1,5 @@
 ## Oi! Eu sou a Ana ✨
-> Estudando HTML, CSS e JavaScript... 💻
+> Estudando Python... 💻
  <div align="center">
 <p> <a href="https://github.com/anapss1"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anapss1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,9 +14,6 @@
 
 > ### Linguagens :cloud:
 <p>
-  <img  alt="ana-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img  alt="ana-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img  alt="ana-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img  alt="ana-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
  </p>
 </div>
